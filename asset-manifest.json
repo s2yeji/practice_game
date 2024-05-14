@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practice_game/static/css/main.ee98220f.css",
+    "main.js": "/practice_game/static/js/main.0db1f96d.js",
+    "static/js/453.a5a72b74.chunk.js": "/practice_game/static/js/453.a5a72b74.chunk.js",
+    "index.html": "/practice_game/index.html",
+    "main.ee98220f.css.map": "/practice_game/static/css/main.ee98220f.css.map",
+    "main.0db1f96d.js.map": "/practice_game/static/js/main.0db1f96d.js.map",
+    "453.a5a72b74.chunk.js.map": "/practice_game/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee98220f.css",
+    "static/js/main.0db1f96d.js"
+  ]
+}
